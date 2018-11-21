@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.*.pyc
+
+# IDE
+.idea/
+
+# virtualenv
+venv/
+
+# MAC
+.DS_Store
+
+# Data files
+*.json
+*.pickle
+*.pk
+*.pkl
+*.pickle
+P[0-9]*Z[0-9]*
